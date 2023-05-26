@@ -1,1 +1,1 @@
-1.	The code first asks the user to enter two numbers. This is done using the printf() function to print out
+1.	The code first asks the user to enter two numbers. This is done using the printf() function to print out a message and the scanf() function
