@@ -1,2 +1,2 @@
 1. The code first asks the user to enter two numbers. This is done using the printf() function to print out a message and the scanf() function to read the user's input.
-2. The code then compares the two
+2. The code then compares the two numbers using the if statement.
