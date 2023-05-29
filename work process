@@ -3,5 +3,5 @@
 3. The code then returns 0 to indicate that the program has completed successfully.
 
 Here is a more detailed explanation of each step:
-1. The printf() function is used to print out a message to the user. In this case, the message is "Enter
+1. The printf() function is used to print out a message to the user. In this case, the message is "Enter two 
 
