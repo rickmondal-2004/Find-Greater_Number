@@ -4,5 +4,5 @@
 
 Here is a more detailed explanation of each step:
 1. The printf() function is used to print out a message to the user. In this case, the message is "Enter two numbers: ".
-1. The scanf() function is used to read the user's input. In this case, the input is two numbers. The scanf() function will store the numbers in the variables num1 and num2.
+2. The scanf() function is used to read the user's input. In this case, the input is two numbers. The scanf() function will store the numbers in the variables num1 and num2.
 
