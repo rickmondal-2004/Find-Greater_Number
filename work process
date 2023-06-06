@@ -8,6 +8,6 @@ Here is a more detailed explanation of each step:
 3. The if statement is used to compare the two numbers. If num1 is greater than num2, the code will execute the first block of code. This block of code prints out num1 is greater. 
    If num2 is greater than num1, the code will execute the second block of code. This block of code prints out num2 is greater. 
    If num1 and num2 are equal, the code will execute the third block of code. This block of code prints out The numbers are equal.
-4The return 0 statement is used to indicate that the program has completed
+4.The return 0 statement is used to indicate that the program has completed
 
  
