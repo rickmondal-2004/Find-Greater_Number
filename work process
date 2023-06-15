@@ -9,5 +9,4 @@ Step1. The printf() function is used to print out a message to the user. In this
    If num2 is greater than num1, the code will execute the second block of code. This block of code prints out num2 is greater. 
    If num1 and num2 are equal, the code will execute the third block of code. This block of code prints out The numbers are equal.
 4. The return 0 statement is used to indicate that the program has completed successfully. The value 0 is a convention that is used to indicate success. 
-..
- 
+
