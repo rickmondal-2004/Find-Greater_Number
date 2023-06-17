@@ -5,7 +5,7 @@ Step3. The code then returns 0 to indicate that the program has completed succes
 Here is a more detailed explanation of each step:
 Step1. The printf() function is used to print out a message to the user. In this case, the message is "Enter two numbers: ".
 Step2. The scanf() function is used to read the user's input. In this case, the input is two numbers. The scanf() function will store the numbers in the variables num1 and num2.
-tep3. The if statement is used to compare the two numbers. If num1 is greater than num2, the code will execute the first block of code. This block of code prints out num1 is greater. 
+Step3. The if statement is used to compare the two numbers. If num1 is greater than num2, the code will execute the first block of code. This block of code prints out num1 is greater. 
    If num2 is greater than num1, the code will execute the second block of code. This block of code prints out num2 is greater. 
    If num1 and num2 are equal, the code will execute the third block of code. This block of code prints out The numbers are equal.
 4. The return 0 statement is used to indicate that the program has completed successfully. The value 0 is a convention that is used to indicate success. 
